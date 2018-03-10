@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\administrator\desktop\新建文件夹 (2)\俄罗斯方块\俄罗斯方块\game.cpp(235): warning C4715: “Game::decide”: 不是所有的控件路径都返回值
+  俄罗斯方块.vcxproj -> C:\Users\Administrator\Desktop\新建文件夹 (2)\俄罗斯方块\Debug\俄罗斯方块.exe
